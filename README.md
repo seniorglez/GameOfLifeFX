@@ -102,7 +102,7 @@ or simply run the native executable found in `target/client`.
 
 
 
-## Build and run the samples on iOS
+## Build and run on iOS
 
 
 
@@ -206,7 +206,7 @@ mvn client:package
 
 
 
-## Build and run the samples on Android
+## Build and run on Android
 
 
 
