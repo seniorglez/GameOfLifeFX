@@ -16,7 +16,7 @@
         <javafx.version>14</javafx.version>
         <client.plugin.version>0.1.23</client.plugin.version>
         <mainClassName>hellofx.HelloFX</mainClassName>
-        <jackson.version>2.10.0</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
     </properties>
 
     <dependencies>
